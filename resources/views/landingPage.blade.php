@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="javaScript/index.js" defer></script>
     <link rel="stylesheet" href="css/style.css"/>
     <title>Landing page</title>
 </head>
@@ -62,19 +63,19 @@
                 <img src="image/casque2.jpg"/>
             </div>
         </section>
-
+        <button id="up">Remonter en haut</button>
         <footer>
             <div class="colum">
                 <h3>AIDE</h3>
-                <p>contact mail</p>
-                <p>contact</p>
-                <p>contact</p>
+                <p>contact landingpage@gmail.com1</p>
+                <p>contact landingpage@gmail.com1</p>
+                <p>contact landingpage@gmail.com1</p>
             </div>
             <div class="colum">
                 <h3>RECRUTEMENT</h3>
-                <p>recru</p>
-                <p>recru</p>
-                <p>recru</p>
+                <p>recrutement1</p>
+                <p>recrutement2</p>
+                <p>recrutement3</p>
             </div>
             <div class="colum">
                 <h3>RESEAU</h3>
@@ -85,3 +86,5 @@
         </footer>
 </body>
 </html>
+
+
